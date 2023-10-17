@@ -74,9 +74,6 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
         case "menu":
           m.reply(`*Whatsapp Bot OpenAI*
 
-*(Owner)*
-Fanz: wa.me/6285812373011
-            
 *(ChatGPT)*
 Cmd: ${prefix}fan 
 Tanyakan apa saja kepada Fanz-Ai. 
